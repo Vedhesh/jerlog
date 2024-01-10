@@ -1,0 +1,48 @@
+@font-face {
+    font-family: cb;
+    src: url("../assets/Comica-Boom-17730780/Comica\ Boom.otf") format("opentype");
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;800&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+body{
+    background-color: #726DA8;
+}
+hcen{
+    position: absolute;
+    left:50%;
+    transform: translatex(-50%);
+    background-color: #A0D2DB;
+    border: #A0D2DB 2px solid;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+    color:rgb(0, 0, 0);
+    font-size: 4vh;
+    width: 100%;
+    text-align: center;
+    border: white 5px solid;
+    border-radius: 8px;
+    background-color: #7D8CC4;
+    padding: 10px;
+    color:white;
+}
+dt{
+    font-family: 'Quicksand', sans-serif;
+    color:#C490D1;
+    font-weight: bold;
+    font-size: 5vh;
+    display: inline;
+}
+dd{
+    word-spacing: 10px;
+    font-family: 'Quicksand', sans-serif;
+    color:#B8336A;
+    font-size: 3vh;
+    display: inline;
+    font-weight: lighter;
+}
+
+
